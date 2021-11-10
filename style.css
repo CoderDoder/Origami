@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background: linear-gradient(#512a7b, #8a288d, #cccd2a, #9ab63b, #8a288d, #512a7b)
+}
+
+h1 {
+    font-family: 'Chicle', cursive;
+    font-size: 80px;
+    letter-spacing: 2px;
+    text-shadow: 3px 4px 5px #92c906;
+}
+
+h2 {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 40px;
+    text-shadow: 3px 4px 5px #92c906;
+    font-weight: bold;
+}
+h3 {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 20px;
+    text-shadow: 3px 4px 5px #92c906;
+    font-weight: 800;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
